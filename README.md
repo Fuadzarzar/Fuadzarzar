@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **TypeScript, Vue, MongoDB**
 
-- :construction: All of my projects are available at [coming soon](coming soon)
+- :construction: All of my projects are available at [my portfolio](https://fuadzarzar.vercel.app/)
 
-- 💬 Ask me about **html, css**
+- 💬 Ask me about **HTML, CSS, Next, Reat**
 
 - 📫 How to reach me **fuadzarzardev@gmail.com**
 
