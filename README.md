@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **MegaSort**
 
-- 🌱 I’m currently learning **TypeScript, Vue, MongoDB**
+- 🌱 **JS, React, Next**
 
 - :construction: All of my projects are available at [my portfolio](https://fuadzarzar.vercel.app/)
 
-- 💬 Invite me to work with **HTML, CSS, JavaScript, NextJs, ReactJs**
+- 💬 Invite me to work with **HTML, CSS, JavaScript, NextJs or ReactJs**
 
 - ⚓ I'm using **NextJs** in most of my projects
 
