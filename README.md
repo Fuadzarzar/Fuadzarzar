@@ -5,7 +5,7 @@
 
 - 🌱 **JS, React, Next**
 
-- :construction: All of my projects are available at [my portfolio](https://fuadzarzar.vercel.app/)
+- :construction: All of my projects are available at [my portfolio](https://fuadzarzar.vercel.app/) [UNDER CONSTRUCTION]
 
 - 💬 Invite me to work with **HTML, CSS, JavaScript, NextJs or ReactJs**
 
