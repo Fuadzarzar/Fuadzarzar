@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MegaSort**
 
-- 🌱 **JS, React, Next**
+- 🌱 **JS, React**
 
 - :construction: All of my projects are available at [my portfolio](https://fuadzarzar.vercel.app/) [UNDER CONSTRUCTION]
 
